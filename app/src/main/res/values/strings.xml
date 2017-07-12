@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SkinDetection</string>
+    <string name="hostname">192.168.169.100</string>
+</resources>
