@@ -9,4 +9,5 @@ import java.util.ArrayList;
 public interface AsyncTaskResult {
     void onPictureUploadedResult(String result);
     void onAnalyzeCompleteResult(ArrayList<String> ResultArrayList);
+    void onServerFound(String serverIP);
 }
